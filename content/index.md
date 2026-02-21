@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: I'm JI
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Is this working lol? follow my letterboxd https://letterboxd.com/jinichi/.
+Tnx
