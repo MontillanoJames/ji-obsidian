@@ -1,3 +1,27 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+.callout[data-callout="theorem"] {
+  --callout-icon: lucide-sparkles;
+  --callout-color: 255,86,86;
+}
+
+.callout[data-callout="definition"] {
+    --callout-color: 0,0,139;
+    --callout-icon: message-square;
+}
+
+.callout[data-callout="proof"] {
+    --callout-color: 26, 140, 216;
+    --callout-icon: box;
+}
+
+.callout[data-callout="note"] {
+    --callout-color: 255, 162, 57;
+}
+
+.callout[data-callout="conjecture"] {
+    --callout-icon: lucide-eye;
+    --callout-color: 238, 105, 131;
+    
+    
+}
