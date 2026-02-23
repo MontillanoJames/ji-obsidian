@@ -21,7 +21,7 @@ Here are some of my accounts. Pls don't steal my data :(
 
 | **Category** | **Platform** | **Profile Link**                                      |
 | ------------ | ------------ | ----------------------------------------------------- |
-| Chess        | Chess.com    | [Jinichi404](https://www.chess.com/member/jinichi404) |
+| ♟️Chess      | Chess.com    | [Jinichi404](https://www.chess.com/member/jinichi404) |
 |              | Lichess      | [jamesusername](https://lichess.org/@/jamesusername)  |
 |              |              |                                                       |
 

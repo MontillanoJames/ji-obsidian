@@ -2,7 +2,7 @@
 title: The pigeonhole principle
 draft: false
 tags:
-  - example-tag
+  - Math
 ---
  
 > [!example]

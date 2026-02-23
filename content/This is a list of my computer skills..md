@@ -17,5 +17,7 @@ Excel, Word, and Powerpoint (but I think everyone that has used a computer knows
 Mathematica and Matlab
 (But I prefer mathematica)
 
+#### Statistical tools
+Rstudio (r), SPSS,  and JASP
 ____
 [My empty github account](https://github.com/MontillanoJames)
